@@ -15,7 +15,7 @@
 
 ## 如何使用
 
-- **在线访问**：直接访问 [热舞帮](https://热舞帮.com) 了解更多。
+- **在线访问**：直接访问 [热舞帮](http://热舞帮.com) 了解更多。
 - **克隆仓库**：如果你想在本地查看或修改项目，可以使用以下命令：
   ```bash
   git clone https://github.com/rewubang/rewubang.github.io.git
